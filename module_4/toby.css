@@ -1,0 +1,37 @@
+
+body {
+    font-family: Verdana;
+    background-color: #FFF;
+    margin: 5px 10px;
+    padding-left: 35px;
+}
+
+h1 {
+    font-size: 32px;
+    color: red;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 26px;
+    color: darkblue;
+    text-align: left;
+}
+
+p {
+    font-size: 16px;
+    padding-left: 50px;
+}
+
+img {
+    width: 500px;
+}
+
+.post {
+    color: yellow;
+}
+
+#red-ball-p {
+    color: orange;
+}
